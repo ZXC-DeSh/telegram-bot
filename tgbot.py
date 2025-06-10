@@ -10,7 +10,7 @@ from telebot import types
 # Выбор жанра - janr
 # Старт - start
 
-TOKEN = '///'
+TOKEN = '5651190184:AAHA3j5Mb5_moQqets5pGo92UBhw9BU_KG4'
 
 bot = telebot.TeleBot(TOKEN)
 
