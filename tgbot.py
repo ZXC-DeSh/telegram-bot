@@ -137,22 +137,4 @@ def handle_callback(call):
         else:
             bot.edit_message_text(response['message'], call.message.chat.id, call.message.message_id)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 bot.polling()
